@@ -1,1 +1,1 @@
-{"name":"الأذكار اليومية المئوية","short_name":"الأذكار المئوية","start_url":"./index.html","display":"standalone","background_color":"#06182e","theme_color":"#06182e","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{"name":"الأذكار اليومية المئوية","short_name":"الأذكار","start_url":"./","scope":"./","display":"standalone","background_color":"#071a32","theme_color":"#071a32","icons":[{"src":"icon.png","sizes":"any","type":"image/png","purpose":"any"}]}
